@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\Users\Administrator\Desktop\C++\评委打分\评委打分\test.cpp(65,38): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  评委打分.vcxproj -> C:\Users\Administrator\Desktop\C++\评委打分\评委打分\x64\Debug\评委打分.exe
