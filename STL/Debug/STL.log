@@ -1,0 +1,7 @@
+﻿  string.cpp
+C:\Users\Administrator\Desktop\C++\STL\string.cpp(150,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\C++\STL\string.cpp(156,19): warning C4018: “<”: 有符号/无符号不匹配
+  vector.cpp
+  源.cpp
+  正在生成代码...
+  STL.vcxproj -> C:\Users\Administrator\Desktop\C++\STL\Debug\STL.exe
