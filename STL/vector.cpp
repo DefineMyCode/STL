@@ -160,6 +160,9 @@ void vtest04()
 	v1.insert(v1.begin(),10);
 	PrintVector(v1);
 
+	v1.insert(v1.begin(), v1.begin(), v1.end());
+	PrintVector(v1);
+
 	v1.insert(v1.begin(), 20);
 	PrintVector(v1);
 
@@ -302,14 +305,16 @@ void vtest07()
 
 }
 
-int main()
+int main2()
 {
+	//总结：vector是单端数组，insert需要移动数据
+	//      数据量越大效率越低，但支持随机访问
 	//vtest01();
 	//vtest02();
 	//vtest03();
-	//vtest04();
+	vtest04();
 	//vtest05();
 	//vtest06();
-	vtest07();
+	//vtest07();
 	return 0;
 }
