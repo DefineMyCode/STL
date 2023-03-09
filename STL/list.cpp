@@ -185,7 +185,7 @@ void ltest5()
 	for (list<person>::iterator it = L.begin();it != L.end();it++)
 		cout << "name: " << it->name << " age: " << it->age << " weight: " << it->weight << endl;
 }
-int main()
+int main7()
 {
 	//STL中的list是一个双向循环链表
 	//插入删除快 遍历慢

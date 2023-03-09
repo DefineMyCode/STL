@@ -130,6 +130,7 @@
     <ClCompile Include="deque.cpp" />
     <ClCompile Include="list.cpp" />
     <ClCompile Include="queue.cpp" />
+    <ClCompile Include="set-multiset.cpp" />
     <ClCompile Include="stack.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="vector.cpp" />

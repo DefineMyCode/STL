@@ -15,19 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="string.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="vector.cpp">
+    <ClCompile Include="set-multiset.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="deque.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="list.cpp">
